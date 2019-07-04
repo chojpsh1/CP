@@ -1,3 +1,2 @@
 # CP
-
-It's Game source for Greenfoot.
+ This project is the crab game implemented in Greenfoot.
